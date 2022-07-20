@@ -1,5 +1,8 @@
 # Time-scale correction for $\\delta^{18} O$ data using Bayesian inference
 
+## Supervisor:
+- [Dr. Carlo Albert](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/carlo-albert/show/)
+
 ## Authors:
 - [Eugenio Fella](https://github.com/eugeniofella)
 - [Matteo Pedrazzi](https://github.com/matteopedrazzi)
